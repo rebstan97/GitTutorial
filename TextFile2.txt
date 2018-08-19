@@ -1,4 +1,6 @@
 Just Another File
+This is an important bug fix
 I've to add some more to this file
 Adding both Anne and Ben's lines
+
 
